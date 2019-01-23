@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b0670684bea7e6f4089b54809c48b3bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Lamp
+    100006: X011_005_hanger01
+    100008: X011_005_hanger02
+    100010: X011_005_hanger03
+    100012: X011_005_hanger07
+    100014: X011_005_hanger08
+    100016: X011_005_hanger09
+    100018: X011_005_hanger10
+    100020: X011_005_hanger11
+    100022: X011_005_Line27
+    100024: X011_005_shirt_b01
+    100026: X011_005_shirt_C_-_02
+    100028: X011_005_shirt_C_-_03
+    100030: X011_005_shirt_D_-_01
+    100032: X011_005_shirt_rocker04
+    400000: Camera
+    400002: //RootNode
+    400004: Lamp
+    400006: X011_005_hanger01
+    400008: X011_005_hanger02
+    400010: X011_005_hanger03
+    400012: X011_005_hanger07
+    400014: X011_005_hanger08
+    400016: X011_005_hanger09
+    400018: X011_005_hanger10
+    400020: X011_005_hanger11
+    400022: X011_005_Line27
+    400024: X011_005_shirt_b01
+    400026: X011_005_shirt_C_-_02
+    400028: X011_005_shirt_C_-_03
+    400030: X011_005_shirt_D_-_01
+    400032: X011_005_shirt_rocker04
+    2000000: Camera
+    2100000: 01_-_Default
+    2100002: back
+    2100004: 02_-_Default
+    2100006: chrome
+    2100008: shirt_-_yellow
+    2100010: shirt_-_green
+    2100012: tag
+    2100014: stitches
+    2100016: Ductwork_reflective
+    2100018: caster_wheel_2
+    2300000: X011_005_hanger01
+    2300002: X011_005_hanger02
+    2300004: X011_005_hanger03
+    2300006: X011_005_hanger07
+    2300008: X011_005_hanger08
+    2300010: X011_005_hanger09
+    2300012: X011_005_hanger10
+    2300014: X011_005_hanger11
+    2300016: X011_005_Line27
+    2300018: X011_005_shirt_b01
+    2300020: X011_005_shirt_C_-_02
+    2300022: X011_005_shirt_C_-_03
+    2300024: X011_005_shirt_D_-_01
+    2300026: X011_005_shirt_rocker04
+    3300000: X011_005_hanger01
+    3300002: X011_005_hanger02
+    3300004: X011_005_hanger03
+    3300006: X011_005_hanger07
+    3300008: X011_005_hanger08
+    3300010: X011_005_hanger09
+    3300012: X011_005_hanger10
+    3300014: X011_005_hanger11
+    3300016: X011_005_Line27
+    3300018: X011_005_shirt_b01
+    3300020: X011_005_shirt_C_-_02
+    3300022: X011_005_shirt_C_-_03
+    3300024: X011_005_shirt_D_-_01
+    3300026: X011_005_shirt_rocker04
+    4300000: X011_005_shirt_rocker04
+    4300002: X011_005_hanger08
+    4300004: X011_005_shirt_C_-_02
+    4300006: X011_005_shirt_b01
+    4300008: X011_005_shirt_C_-_03
+    4300010: X011_005_hanger11
+    4300012: X011_005_Line27
+    4300014: X011_005_hanger01
+    4300016: X011_005_hanger02
+    4300018: X011_005_hanger03
+    4300020: X011_005_shirt_D_-_01
+    4300022: X011_005_hanger07
+    4300024: X011_005_hanger09
+    4300026: X011_005_hanger10
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
